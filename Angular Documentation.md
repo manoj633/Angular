@@ -7,15 +7,11 @@
 
 ## [[File Organization and Loading Mechanisms in Angular]]
 
-## [[Data Binding Techniques]]
-- [[String Interpolation Methods]]
-- [[Property Binding Approaches]]
-- [[Event Binding Strategies]]
-- [[Two-Way Data Binding]]
-
-## [[Utilization of Built-in Directives]]
-
 ## [[Code Debugging Practices]]
+
+## [[Data Binding Techniques]]
+
+## [[Directive Fundamentals and Classifications]]
 
 ## [[Custom Property Binding Implementation]]
 
@@ -32,16 +28,6 @@
 ## [[Component Lifecycle Management and Hooks]]
 
 ## [[@ContentChild Decorator Usage]]
-
-## [[Directive Fundamentals and Classifications]]
-
-## [[Structural Directive Implementation]]
-
-## [[Attribute Directive Development]]
-
-## [[Creating Custom Attribute Directives]]
-
-## [[Developing Custom Structural Directives]]
 
 ## [[Service Architecture]]
 
