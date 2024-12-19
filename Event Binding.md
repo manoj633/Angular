@@ -44,6 +44,8 @@ export class CounterComponent {
 
 In this example, the `incrementCounter()` method is called each time the button is clicked, and it increments the `counter` property.
 
+We can also create custom event binding as explained in [[Custom Event Binding Techniques]]
+
 ### Advantages of Event Binding
 
 1. **Simplicity**: Event binding provides a straightforward way to handle user interactions without needing to manually attach event listeners.
