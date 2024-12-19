@@ -13,10 +13,6 @@
 
 ## [[Directive Fundamentals and Classifications]]
 
-## [[Custom Property Binding Implementation]]
-
-## [[Custom Event Binding Techniques]]
-
 ## [[Understanding View Encapsulation]]
 
 ## [[Local Reference Utilization]]
@@ -73,6 +69,9 @@
 
 ## [[Observables in Angular]]
 - [[Observable Mechanisms]]
+- [[Creating an Observable]]
+- [[Throwing an error or completing an observable]]
+- [[Subscribing to an Observable]]
 - [[Benefits of Using Observables]]
 - [[Operators in Observables]]
 
