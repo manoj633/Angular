@@ -81,6 +81,16 @@ The syntax for property binding is:
    @Input() appHighlight: string;
    ```
 
+This is explained in detail in [[Custom Property Binding Implementation]]
+
+### Property binding syntax
+
+```html
+   <img src="{{myImagePath}}">
+   <img [src]="myImagePath">
+   <img bind-src="myImagePath">
+   ```
+   
 ### Advantages of Property Binding
 
 - **Simplicity**: Property binding is straightforward and easy to use, making it simple to bind data from the component to the view.
