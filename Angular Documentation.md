@@ -71,6 +71,8 @@
 
 ## [[Pipes]]
 
+## [[HTTP requests in Angular]]
+
 ## [[Observables in Angular]]
 - [[Observable Mechanisms]]
 - [[Creating an Observable]]
