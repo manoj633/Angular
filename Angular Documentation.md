@@ -69,6 +69,8 @@
 
 ## [[Reactive form Handling]]
 
+## [[Pipes]]
+
 ## [[Observables in Angular]]
 - [[Observable Mechanisms]]
 - [[Creating an Observable]]
