@@ -67,6 +67,8 @@
 
 ## [[Comprehending Location Strategy]]
 
+## [[Reactive form Handling]]
+
 ## [[Observables in Angular]]
 - [[Observable Mechanisms]]
 - [[Creating an Observable]]
