@@ -1,4 +1,4 @@
-In Angular, components are the building blocks of the application. They encapsulate the data, HTML template, and logic for a part of the user interface. Understanding how to create and use components is fundamental to developing Angular applications.
+In Angular, components are the building blocks of the application. They encapsulate the data, HTML template, and logic for a part of the user interface. 
 
 ### Fundamentals of Component Creation
 
